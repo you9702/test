@@ -1,0 +1,8 @@
+prefix=/home/yzy/catkin_ws_test/devel
+
+Name: box
+Description: Description of box
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

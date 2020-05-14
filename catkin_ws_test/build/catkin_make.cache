@@ -1,0 +1,2 @@
+box:car_model
+-DCATKIN_DEVEL_PREFIX=/home/yzy/catkin_ws_test/devel -DCMAKE_INSTALL_PREFIX=/home/yzy/catkin_ws_test/install -G Unix Makefiles
